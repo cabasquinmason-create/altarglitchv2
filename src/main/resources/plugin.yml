@@ -1,0 +1,14 @@
+name: AltarGlitchSMP
+version: 1.0.0
+main: com.custom.altarglitch.AltarGlitchPlugin
+api-version: '1.21'
+description: Altar ritual weapon crafting and Glitch loadout menu.
+
+commands:
+  altar:
+    description: Spawn or reset ritual altars
+    permission: altarglitch.admin
+  glitch:
+    description: Open your Glitch loadout GUI
+  glitches:
+    description: Open your Glitch loadout GUI
